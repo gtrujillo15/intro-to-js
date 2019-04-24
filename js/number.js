@@ -34,5 +34,5 @@ console.log(mod);
 
 var e = '20';
 console.log(a === e); // strict comparison
-console.log(a == e); // loose comparison
+console.log(a == e); // loose comparison truthy
 
