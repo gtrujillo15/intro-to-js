@@ -1,4 +1,5 @@
 var fruits = ['apple', 'banana', 'orange'];
+var fruitsIsNotArray= 
 console.log(fruits);
 console.log(fruits[0]);
 console.log(fruits[1]);
